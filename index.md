@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<embed src="https://joonavaananen.github.io/pdf/Arduino_Wake-up_Light_Poster.pdf" type="application/pdf" />
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
