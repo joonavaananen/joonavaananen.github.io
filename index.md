@@ -1,7 +1,3 @@
- ---
- ---
-
-@import "{{ site.theme }}";
 ## Portfolio
 
 <a href="https://joonavaananen.github.io/pdf/Vaimo_Poster.pdf">
