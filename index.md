@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-<embed src="https://joonavaananen.github.io/pdf/Vaimo_Poster.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="https://joonavaananen.github.io/pdf/Vaimo_Poster.pdf" type="application/pdf" width="100%" height="800px" style="overflow:hidden" />
 
 ---
 <embed src="https://joonavaananen.github.io/pdf/Medicall_Poster.pdf" type="application/pdf" width="100%" height="800px" />
