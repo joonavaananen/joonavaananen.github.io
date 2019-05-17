@@ -1,5 +1,9 @@
 ## Portfolio
 
+<a href="https://joonavaananen.github.io/pdf/JAMstack_Poster.pdf">
+<img border="0" alt="Poster" src="https://joonavaananen.github.io/images/JAMstack_Poster.jpg" width="100%" height="100%">
+</a>
+
 <a href="https://joonavaananen.github.io/pdf/Vaimo_Poster.pdf">
 <img border="0" alt="Poster" src="https://joonavaananen.github.io/images/Vaimo_Poster.jpg" width="100%" height="100%">
 </a>
